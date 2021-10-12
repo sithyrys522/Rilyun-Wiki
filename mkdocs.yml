@@ -1,0 +1,5 @@
+site_name: Rilyun Wiki
+
+nav:
+  - Home: index.md
+  - About: about.md
