@@ -30,4 +30,4 @@ jobs:
       run: npm install -g surge
       
     - name: Deploy to surge
-      run: surge ./build nice-coal.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./site nice-coal.surge.sh --token ${{secrets.SURGE_TOKEN}}
