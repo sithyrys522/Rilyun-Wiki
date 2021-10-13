@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to the Rilyun Wiki
+This is going to be the global wiki for the Homebrewed world of Rilyun. All information for potential Dungeon Master's and players can be found here in their respective portals.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Portals
+- [Player's General Guide](general-guide.md)
+- Campaign Specific player guides will be added soon
+- [Dungeon Master's Pool of Knowledge](dm-guide.md)
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Ongoing Campaigns using this Wiki
+- Malbowen
+- West March
