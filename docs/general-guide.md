@@ -77,6 +77,7 @@ It is pretty clear and straightforward, you worship the protectors and do good; 
 ### The Protectors: 
 
 | Name | Domain | Symbol |
+| -----| ------ | ------ |
 | Florenzia // [Floor-en-Ze-ah] | Sun, Knowledge | Circle with a leaf |
 | Iliahna // [Ill-E-an-ah] | Life, Birth | A Dandelion |
 | Myrkur // [Meer-Cook] | Moon, Mystery | A Black Half Moon |
