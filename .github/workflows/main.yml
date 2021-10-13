@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Deploy
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push request events but only for the main branch
+  push:
+    branches: [ main ]
+
+ jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name Setup Node
+      uses: actions/setup-node@v2-beta
+      with:
+        node-version: 12
+    
+    - name: Build mkdocs site
+      run: |
+        pip install mkdocs
+        mkdocs build
+        
+    - name: Install Surge
+      run: npm install -g surge
+      
+    - name: Deploy to surge
+      run: surge ./build nice-coal.surge.sh --token ${{secrets.SURGE_TOKEN}}
