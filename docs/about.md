@@ -1,3 +1,3 @@
 # About the Rilyun Wiki
 
-Lore Ipsum THIS SHOULD BE HERE IF GITHUB ACTIONS WORKED
+Lore Ipsum TEST
