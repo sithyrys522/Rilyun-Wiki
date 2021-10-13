@@ -25,6 +25,7 @@ jobs:
     - name: Build mkdocs site
       run: |
         pip install mkdocs
+        pip install mkdocs-alabaster
         mkdocs build
         
     - name: Install Surge
