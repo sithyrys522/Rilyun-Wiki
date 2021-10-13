@@ -4,7 +4,7 @@ This is going to be the global wiki for the Homebrewed world of Rilyun. All info
 ## Portals
 - [Player's General Guide](general-guide.md)
 - Campaign Specific player guides will be added soon
-- [Dungeon Master's Pool of Knowledge](dm-guide.md)
+- [Dungeon Master's Pool of Knowledge](dm-guide.md) **Currently does not exist**
 
 ## Ongoing Campaigns using this Wiki
 - Malbowen
