@@ -1,5 +1,7 @@
 site_name: Rilyun Wiki
 
+theme: alabaster
+
 nav:
   - Home: index.md
   - About: about.md
